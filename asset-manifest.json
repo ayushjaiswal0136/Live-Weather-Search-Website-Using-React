@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Face-Detection-Website-Using-React%20/static/css/main.be6e2c1e.css",
+    "main.js": "/Face-Detection-Website-Using-React%20/static/js/main.19292eff.js",
+    "static/media/city.jpg": "/Face-Detection-Website-Using-React%20/static/media/city.f3ee78e4b6e5a41eaee5.jpg",
+    "static/media/WeatherIcons.gif": "/Face-Detection-Website-Using-React%20/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background.jpg": "/Face-Detection-Website-Using-React%20/static/media/background.ea9c4896b09812230723.jpg",
+    "index.html": "/Face-Detection-Website-Using-React%20/index.html",
+    "main.be6e2c1e.css.map": "/Face-Detection-Website-Using-React%20/static/css/main.be6e2c1e.css.map",
+    "main.19292eff.js.map": "/Face-Detection-Website-Using-React%20/static/js/main.19292eff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6e2c1e.css",
+    "static/js/main.19292eff.js"
+  ]
+}
